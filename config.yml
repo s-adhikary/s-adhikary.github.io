@@ -1,0 +1,112 @@
+baseURL: "http://s-adhikary.github.io/" 
+title: S. Adhikary
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Papers
+          url: papers/
+          weight: 1
+        - name: Courses
+          url: courses/
+          weight: 2
+        #- name: Data
+        #  url: data/
+        #  weight: 3 
+        #- name: Newsletter
+        #  url: https://pmichaillat.substack.com
+        #  weight: 4
+
+params:
+    description: "I am currently pursuing PhD in Computer Science and Engineering from Indian Institute of Technology Kanpur."
+    author: S. Adhikary
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: dark
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Supriya Adhikary
+          subtitle: "I am currently pursuing PhD in Computer Science and Engineering from Indian Institute of Technology Kanpur."
+          imageUrl: "profile1.jpg"
+          imageWidth: 168
+          imageHeight: 222
+          imageTitle: S. Adhikary
+          buttons:
+            - name: Papers
+              url: papers/
+            - name: Courses
+              url: courses/
+            #- name: Data
+            #  url: data/
+            #- name: Newsletter
+            #  url: https://pmichaillat.substack.com
+            #- name: Tags
+            #  url: tags/
+            #- name: Archive
+            #  url: archive/
+    socialIcons:
+        - name: CV
+          url: CV_OnePage.pdf
+        - name: Email
+          url: mailto:adhikarys@cse.iitk.ac.in
+        - name: Location
+          url: location/
+        #- name: Office Hours
+        #  url: officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=kpmzyAYAAAAJ&hl=en
+        #- name: YouTube
+        #  url: https://www.youtube.com/@pmichaillat
+        - name: GitHub
+          url: https://github.com/s-adhikary
+        #- name: Substack
+        #  url: https://pmichaillat.substack.com
+        - name: Twitter
+          url: https://twitter.com/im_raja24
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "S. Adhikary"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
