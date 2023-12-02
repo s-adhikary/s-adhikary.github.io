@@ -1,4 +1,4 @@
-baseURL: "http://s-adhikary.github.io/" 
+baseURL: "https://s-adhikary.github.io/" 
 title: S. Adhikary
 paginate: 20
 theme: PaperMod
