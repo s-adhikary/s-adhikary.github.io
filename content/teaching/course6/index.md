@@ -16,4 +16,4 @@ Supriya Adhikary\
 Puja Mondal
 
 ---
-I co-instructed this course for P.G. Diploma in Forensic Cyber Security students from September to November 2023.
+I collaborated in teaching this course to students pursuing a P.G. Diploma in Forensic Cyber Security from September to November 2023.
