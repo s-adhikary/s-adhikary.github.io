@@ -1,7 +1,7 @@
 ---
 title: "ESC112A: Fundamentals of Computing - II (Tutor)"
-date: "2023 February"
-tags: ["keyword 1","keyword 2","keyword 3"]
+date: "2023 January"
+tags: ["C Programming"]
 author: "Indian Institute of Technology Kanpur"
 description: "This course introduces students to the basics of programming, using C as the language of instruction." 
 summary: "This course introduces students to the basics of programming, using C as the language of instruction." 
@@ -15,5 +15,4 @@ disableAnchoredHeadings: false
 Dr. Anil Seth
 
 ---
-I served as a tutor in this course and taken tutorial classes for bachelor's students from February to April of 2022. 
-
+I fulfilled the role of a tutor in this course, conducting tutorial sessions for undergraduate students from January to February 2023.

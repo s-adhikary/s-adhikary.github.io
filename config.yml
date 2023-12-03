@@ -1,4 +1,4 @@
-baseURL: "http://s-adhikary.github.io/" 
+baseURL: "https://s-adhikary.github.io/" 
 title: S. Adhikary
 paginate: 20
 theme: PaperMod
@@ -14,8 +14,8 @@ menu:
         - name: Papers
           url: papers/
           weight: 1
-        - name: Courses
-          url: courses/
+        - name: Teaching
+          url: teaching/
           weight: 2
         #- name: Data
         #  url: data/
@@ -50,7 +50,8 @@ params:
     profileMode:
           enabled: true
           title: Supriya Adhikary
-          subtitle: "I am currently pursuing PhD in Computer Science and Engineering from Indian Institute of Technology Kanpur."
+          subtitle: '<p style="margin-bottom:0.5cm;">I am currently pursuing PhD from Dept. of Computer Science and Engineering at the <a href="https://www.iitk.ac.in">Indian Institute of Technology Kanpur</a>.
+          <p style="margin-bottom:0.5cm;">My research focuses in exploring methods for performing computations on encrypted data, specifically delving into areas like Homomorphic encryption and Functional encryption. Additionally, I have a keen interest in post-quantum cryptographic techniques, including lattice-based cryptography and code-based cryptography.'
           imageUrl: "profile1.jpg"
           imageWidth: 168
           imageHeight: 222
@@ -58,8 +59,8 @@ params:
           buttons:
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
+            - name: Teaching
+              url: teaching/
             #- name: Data
             #  url: data/
             #- name: Newsletter
