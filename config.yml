@@ -48,8 +48,7 @@ params:
     profileMode:
           enabled: true
           title: Supriya Adhikary
-          subtitle: '<p style="margin-bottom:0.5cm;">I am currently pursuing PhD from Dept. of Computer Science and Engineering at the <a href="https://www.iitk.ac.in">Indian Institute of Technology Kanpur</a>.
-          <p style="margin-bottom:0.5cm;">My research focuses in exploring methods for performing computations on encrypted data, specifically delving into areas like Homomorphic encryption and Functional encryption. Additionally, I have a keen interest in post-quantum cryptographic techniques, including lattice-based cryptography and code-based cryptography.'
+          subtitle: <p style="margin-bottom:0.5cm;">I am a Prime Minister's Research Fellow and currently pursuing my PhD from Dept. of Computer Science and Engineering at <a href="https://www.iitk.ac.in">Indian Institute of Technology Kanpur</a>.<p style="margin-bottom:0.5cm;">My research focuses in exploring methods for performing computations on encrypted data, specifically delving into areas like Homomorphic encryption and Functional encryption. Additionally, I have a keen interest in post-quantum cryptographic techniques, including lattice-based cryptography and code-based cryptography.<p style="margin-bottom:0.5cm;">Prior to my enrollment at IIT, I completed my academic tenure at the Indian Statistical Institute in Kolkata, earning an M.Tech degree specializing in Cryptology and Security. My academic foundation includes the acquisition of both B.Sc and M.Sc degrees from the University of Calcutta.
           imageUrl: "profile1.jpg"
           imageWidth: 168
           imageHeight: 222
