@@ -68,7 +68,7 @@ params:
             #  url: archive/
     socialIcons:
         - name: CV
-          url: CV_OnePage.pdf
+          url: CV.pdf
         - name: Email
           url: mailto:adhikarys@cse.iitk.ac.in
         - name: Location
