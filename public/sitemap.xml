@@ -2,64 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pascalmichaillat.org/hugo-website/data/</loc>
+    <loc>https://s-adhikary.github.io/data/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/data/data1/</loc>
+    <loc>https://s-adhikary.github.io/data/data1/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-10/</loc>
+    <loc>https://s-adhikary.github.io/tags/keyword-10/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-5/</loc>
+    <loc>https://s-adhikary.github.io/tags/keyword-5/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-6/</loc>
+    <loc>https://s-adhikary.github.io/tags/keyword-6/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-7/</loc>
+    <loc>https://s-adhikary.github.io/tags/keyword-7/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/</loc>
+    <loc>https://s-adhikary.github.io/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/</loc>
+    <loc>https://s-adhikary.github.io/tags/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/courses/course1/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <loc>https://s-adhikary.github.io/papers/paper1/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/courses/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <loc>https://s-adhikary.github.io/archive/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-1/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <loc>https://s-adhikary.github.io/tags/avx2/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-2/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <loc>https://s-adhikary.github.io/tags/c-programming/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-3/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <loc>https://s-adhikary.github.io/teaching/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/courses/course2/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+    <loc>https://s-adhikary.github.io/teaching/course6/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/tags/keyword-4/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+    <loc>https://s-adhikary.github.io/teaching/course5/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/papers/paper2/</loc>
-    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <loc>https://s-adhikary.github.io/tags/cyber-security/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/papers/</loc>
-    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <loc>https://s-adhikary.github.io/tags/digital-signature/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/papers/paper1/</loc>
-    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+    <loc>https://s-adhikary.github.io/teaching/course1/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/archive/</loc>
+    <loc>https://s-adhikary.github.io/teaching/course3/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/location/</loc>
+    <loc>https://s-adhikary.github.io/teaching/course2/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/hugo-website/officehours/</loc>
+    <loc>https://s-adhikary.github.io/teaching/course4/</loc>
+  </url><url>
+    <loc>https://s-adhikary.github.io/tags/exploitation-techniques/</loc>
+  </url><url>
+    <loc>https://s-adhikary.github.io/tags/hash-functions/</loc>
+  </url><url>
+    <loc>https://s-adhikary.github.io/tags/inner-product-functional-encryption/</loc>
+  </url><url>
+    <loc>https://s-adhikary.github.io/location/</loc>
+  </url><url>
+    <loc>https://s-adhikary.github.io/tags/network-security/</loc>
+  </url><url>
+    <loc>https://s-adhikary.github.io/tags/number-theoretic-transformation/</loc>
+  </url><url>
+    <loc>https://s-adhikary.github.io/officehours/</loc>
+  </url><url>
+    <loc>https://s-adhikary.github.io/tags/openmp/</loc>
+  </url><url>
+    <loc>https://s-adhikary.github.io/papers/</loc>
+  </url><url>
+    <loc>https://s-adhikary.github.io/tags/privacy-preserving-biometric-authentication/</loc>
+  </url><url>
+    <loc>https://s-adhikary.github.io/tags/public-key-cryptology/</loc>
+  </url><url>
+    <loc>https://s-adhikary.github.io/tags/symmetric-key-cryptology/</loc>
   </url>
 </urlset>

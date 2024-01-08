@@ -1,81 +1,162 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Prof. Name</title>
-    <link>https://pascalmichaillat.org/hugo-website/tags/</link>
-    <description>Recent content in Tags on Prof. Name</description>
+    <title>Tags on S. Adhikary</title>
+    <link>https://s-adhikary.github.io/tags/</link>
+    <description>Recent content in Tags on S. Adhikary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://s-adhikary.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>keyword 10</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-10/</link>
+      <link>https://s-adhikary.github.io/tags/keyword-10/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-10/</guid>
+      <guid>https://s-adhikary.github.io/tags/keyword-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>keyword 5</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-5/</link>
+      <link>https://s-adhikary.github.io/tags/keyword-5/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-5/</guid>
+      <guid>https://s-adhikary.github.io/tags/keyword-5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>keyword 6</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-6/</link>
+      <link>https://s-adhikary.github.io/tags/keyword-6/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-6/</guid>
+      <guid>https://s-adhikary.github.io/tags/keyword-6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>keyword 7</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-7/</link>
+      <link>https://s-adhikary.github.io/tags/keyword-7/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-7/</guid>
+      <guid>https://s-adhikary.github.io/tags/keyword-7/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>keyword 1</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-1/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <title>AVX2</title>
+      <link>https://s-adhikary.github.io/tags/avx2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-1/</guid>
+      <guid>https://s-adhikary.github.io/tags/avx2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>keyword 2</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-2/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <title>C Programming</title>
+      <link>https://s-adhikary.github.io/tags/c-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-2/</guid>
+      <guid>https://s-adhikary.github.io/tags/c-programming/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>keyword 3</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-3/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <title>Cyber Security</title>
+      <link>https://s-adhikary.github.io/tags/cyber-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-3/</guid>
+      <guid>https://s-adhikary.github.io/tags/cyber-security/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>keyword 4</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-4/</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <title>Digital Signature</title>
+      <link>https://s-adhikary.github.io/tags/digital-signature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-4/</guid>
+      <guid>https://s-adhikary.github.io/tags/digital-signature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation Techniques</title>
+      <link>https://s-adhikary.github.io/tags/exploitation-techniques/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-adhikary.github.io/tags/exploitation-techniques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hash Functions</title>
+      <link>https://s-adhikary.github.io/tags/hash-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-adhikary.github.io/tags/hash-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inner product functional encryption</title>
+      <link>https://s-adhikary.github.io/tags/inner-product-functional-encryption/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-adhikary.github.io/tags/inner-product-functional-encryption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Security</title>
+      <link>https://s-adhikary.github.io/tags/network-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-adhikary.github.io/tags/network-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Number theoretic transformation</title>
+      <link>https://s-adhikary.github.io/tags/number-theoretic-transformation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-adhikary.github.io/tags/number-theoretic-transformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenMP</title>
+      <link>https://s-adhikary.github.io/tags/openmp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-adhikary.github.io/tags/openmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy-preserving biometric authentication</title>
+      <link>https://s-adhikary.github.io/tags/privacy-preserving-biometric-authentication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-adhikary.github.io/tags/privacy-preserving-biometric-authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public-Key Cryptology</title>
+      <link>https://s-adhikary.github.io/tags/public-key-cryptology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-adhikary.github.io/tags/public-key-cryptology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symmetric-Key Cryptology</title>
+      <link>https://s-adhikary.github.io/tags/symmetric-key-cryptology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-adhikary.github.io/tags/symmetric-key-cryptology/</guid>
       <description></description>
     </item>
     
