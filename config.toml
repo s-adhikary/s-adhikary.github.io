@@ -1,0 +1,107 @@
+
+# Global options
+baseURL = "/"
+canonifyURLs = true
+copyright = "© 2023 by Supriya Adhikary. <a href='/privacy'>Privacy policy</a>."
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+languageCode = "en"
+theme = "barks"
+title = "Supriya Adhikary"
+
+
+
+# Main menu
+[[menu.main]]
+    name = "About"
+    url  = "/about"
+    weight = 2
+[[menu.main]]
+    name = "Publications"
+    url  = "/publications"
+    weight = 2
+[[menu.main]]
+    name = "Teaching"
+    url  = "/teaching"
+    weight = 2
+[[menu.main]]
+    name = "CV"
+    url  = "/cv.pdf"
+    weight = 3
+
+# Customization options
+[params]
+
+    [params.head]
+        author = "Supriya Adhikary"
+        custom_css = "/custom.css"
+        description = "Hi, I'm Supriya"
+        keywords = ["cryptography", "academic", "IITK", "security", "PhD"]
+
+    [params.navigation]
+        show_navigation = true
+
+    [params.footer]
+        show_footer = true
+
+    [params.typography]
+#        title_font = "Urbanist"
+#        title_font = "Cutive Mono"
+#        body_font = "Source Sans Pro"
+		 title_font = "Fira Code"
+    	 body_font = "Itim"
+
+    [params.colors]
+        theme_color = "#333333"
+        background_color = "#ffffff"
+        text_color = "#333333"
+        link_color = "#17442a"
+
+    [params.social]
+        [params.social.email]
+            name = "E-Mail"
+            class = "fas fa-envelope"
+            url = "mailto:adhikarys@cse.iitk.ac.in"
+            weight = 1
+        [params.social.github]
+            name = "GitHub"
+            class = "fab fa-github"
+            url = "https://github.com/s-adhikary"
+            weight = 2
+        [params.social.google_scholar]
+            name = "Google Scholar"
+            class = "ai ai-google-scholar-square"
+            url = "https://scholar.google.com/citations?user=kpmzyAYAAAAJ&hl=en"
+            weight = 3
+        [params.social.institution]
+            name = "My institution"
+            class = "fas fa-university"
+            url = "https://www.cse.iitk.ac.in/"
+            weight = 4
+        [params.social.linkedin]
+            name = "LinkedIn"
+            class = "fab fa-linkedin"
+            url = "https://www.linkedin.com/in/supriya-adhikary-06b554191/"
+            weight = 5
+        [params.social.orcid]
+            name = "ORCID iD"
+            class = "fab fa-orcid"
+            url = "https://orcid.org/0000-0002-0701-8049"
+            weight = 6
+        [params.social.orchid]
+            name = "DBLP"
+            class = "ai ai-dblp"
+            url = "https://dblp.org/pid/348/6003.html"
+            weight = 7
+
+
+
+# Options for Markdown renderer
+[markup]
+
+    [markup.goldmark.renderer]
+        unsafe = true
+        xHTML = true
+
+    [markup.highlight]
+        style = 'dracula'
