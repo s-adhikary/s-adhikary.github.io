@@ -1,6 +1,6 @@
 
 # Global options
-baseURL = "/"
+baseURL = "https://s-adhikary.github.io/"
 canonifyURLs = true
 copyright = "© 2023 by Supriya Adhikary. <a href='/privacy'>Privacy policy</a>."
 defaultContentLanguage = "en"
