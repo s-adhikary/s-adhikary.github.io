@@ -2,62 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Courses on S. Adhikary</title>
-    <link>https://s-adhikary.github.io/teaching/</link>
+    <link>http://localhost:1313/teaching/</link>
     <description>Recent content in Courses on S. Adhikary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://s-adhikary.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cryptology</title>
-      <link>https://s-adhikary.github.io/teaching/course6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://s-adhikary.github.io/teaching/course6/</guid>
-      <description>This course introduces students to the basic concepts of cryptology.</description>
-    </item>
-    
+    <language>en</language><atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CS628: Computer Systems Security</title>
-      <link>https://s-adhikary.github.io/teaching/course5/</link>
+      <link>http://localhost:1313/teaching/course5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://s-adhikary.github.io/teaching/course5/</guid>
+      <guid>http://localhost:1313/teaching/course5/</guid>
       <description>This course introduces students to the cyber security threats, mitigation methods and revisions of standards based on cyber threats.</description>
     </item>
     
     <item>
       <title>ESC111A: Fundamentals of Computing - I (Tutor)</title>
-      <link>https://s-adhikary.github.io/teaching/course1/</link>
+      <link>http://localhost:1313/teaching/course1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://s-adhikary.github.io/teaching/course1/</guid>
+      <guid>http://localhost:1313/teaching/course1/</guid>
       <description>This course introduces students to the basics of programming, using C as the language of instruction.</description>
     </item>
     
     <item>
       <title>ESC111M: Fundamentals of Computing - I (Tutor)</title>
-      <link>https://s-adhikary.github.io/teaching/course3/</link>
+      <link>http://localhost:1313/teaching/course3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://s-adhikary.github.io/teaching/course3/</guid>
+      <guid>http://localhost:1313/teaching/course3/</guid>
       <description>This course introduces students to the basics of programming, using C as the language of instruction.</description>
     </item>
     
     <item>
       <title>ESC112A: Fundamentals of Computing - II (Tutor)</title>
-      <link>https://s-adhikary.github.io/teaching/course2/</link>
+      <link>http://localhost:1313/teaching/course2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://s-adhikary.github.io/teaching/course2/</guid>
+      <guid>http://localhost:1313/teaching/course2/</guid>
       <description>This course introduces students to the basics of programming, using C as the language of instruction.</description>
     </item>
     
     <item>
       <title>ESC112M: Fundamentals of Computing - II (Tutor)</title>
-      <link>https://s-adhikary.github.io/teaching/course4/</link>
+      <link>http://localhost:1313/teaching/course4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://s-adhikary.github.io/teaching/course4/</guid>
+      <guid>http://localhost:1313/teaching/course4/</guid>
       <description>This course introduces students to the basics of programming, using C as the language of instruction.</description>
+    </item>
+    
+    <item>
+      <title>PMRF-TA for Secure Computation: Part 1</title>
+      <link>http://localhost:1313/teaching/course7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/teaching/course7/</guid>
+      <description>Course cover secure multi-party computation and secret sharing protocols.</description>
+    </item>
+    
+    <item>
+      <title>Python Programming Language and SageMath for Mathematics</title>
+      <link>http://localhost:1313/teaching/course6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/teaching/course6/</guid>
+      <description>Workshop on python programming language and sagemath for mathematics</description>
     </item>
     
   </channel>

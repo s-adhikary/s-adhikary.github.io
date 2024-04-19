@@ -11,11 +11,14 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
+        - name: Publications
           url: papers/
           weight: 1
-        - name: Teaching
-          url: teaching/
+        - name: Institute Teaching
+          url: teaching_internal/
+          weight: 2
+        - name: Outside Teaching
+          url: teaching_outside/
           weight: 2
         #- name: Data
         #  url: data/
@@ -54,10 +57,12 @@ params:
           imageHeight: 222
           imageTitle: S. Adhikary
           buttons:
-            - name: Papers
+            - name: Publications
               url: papers/
-            - name: Teaching
-              url: teaching/
+            - name: Institute Teaching
+              url: teaching_internal/
+            - name: Outside Teaching
+              url: teaching_outside/
             #- name: Data
             #  url: data/
             #- name: Newsletter
